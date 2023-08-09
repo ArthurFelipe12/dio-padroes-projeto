@@ -1,7 +1,7 @@
 # dio-padroes-projeto
-This project was created while I participated in an event at Digital Innovation One called Orange Tech + | BackEnd.
+Este projeto foi criado enquanto eu participava de um evento na Digital Innovation One chamado Orange Tech + | BackEnd.
 
-Repository with implementations of design patterns explored in the Lab "Exploring Design Patterns in Practice with Java". Specifically, this project explored some patterns using pure Java:
+Repositório com implementações de padrões de projeto explorados no Laboratório "Explorando Padrões de Projeto na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro
 
 - Singleton
 - Strategy
